@@ -1,0 +1,10 @@
+D:\VS projects\Kurs\KursPt1\bin\Debug\Билеты.mdb
+D:\VS projects\Kurs\KursPt1\bin\Debug\KursPt1.exe.config
+D:\VS projects\Kurs\KursPt1\bin\Debug\KursPt1.exe
+D:\VS projects\Kurs\KursPt1\bin\Debug\KursPt1.pdb
+D:\VS projects\Kurs\KursPt1\obj\Debug\KursPt1.csprojAssemblyReference.cache
+D:\VS projects\Kurs\KursPt1\obj\Debug\KursPt1.Form1.resources
+D:\VS projects\Kurs\KursPt1\obj\Debug\KursPt1.Properties.Resources.resources
+D:\VS projects\Kurs\KursPt1\obj\Debug\KursPt1.csproj.GenerateResource.cache
+D:\VS projects\Kurs\KursPt1\obj\Debug\KursPt1.exe
+D:\VS projects\Kurs\KursPt1\obj\Debug\KursPt1.pdb

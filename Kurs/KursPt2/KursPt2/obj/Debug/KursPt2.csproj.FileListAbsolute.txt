@@ -1,0 +1,10 @@
+D:\VS projects\Kurs\KursPt2\KursPt2\obj\Debug\KursPt2.csprojAssemblyReference.cache
+D:\VS projects\Kurs\KursPt2\KursPt2\obj\Debug\KursPt2.Form1.resources
+D:\VS projects\Kurs\KursPt2\KursPt2\obj\Debug\KursPt2.Properties.Resources.resources
+D:\VS projects\Kurs\KursPt2\KursPt2\obj\Debug\KursPt2.csproj.GenerateResource.cache
+D:\VS projects\Kurs\KursPt2\KursPt2\bin\Debug\Тест.mdb
+D:\VS projects\Kurs\KursPt2\KursPt2\bin\Debug\KursPt2.exe.config
+D:\VS projects\Kurs\KursPt2\KursPt2\bin\Debug\KursPt2.exe
+D:\VS projects\Kurs\KursPt2\KursPt2\bin\Debug\KursPt2.pdb
+D:\VS projects\Kurs\KursPt2\KursPt2\obj\Debug\KursPt2.exe
+D:\VS projects\Kurs\KursPt2\KursPt2\obj\Debug\KursPt2.pdb
